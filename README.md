@@ -1,0 +1,5 @@
+- 👋 Howdy, I’m Mason - a software developer based in Los Angeles, CA
+- 👀 I’m interested in the metaverse, tokenized real estate, web3, etc...
+- 🌱 I’m currently learning about writing smart contracts, blockchain, and next-gen web frameworks (Gatsby/Next)
+- 💞️ I’m looking to collaborate on crypto, web2/3, and VR applications
+- 📫 Reach out to me at hi@mason.ooo - I'm always happy to chat about any of the above
